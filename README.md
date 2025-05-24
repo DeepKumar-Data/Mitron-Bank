@@ -19,8 +19,6 @@ Scan the QR code or click on the link below to view the live interactive dashboa
 
 ![QR Code](Mitron%20Bank.png)
 
-![Dashboard Overview](Images/Dashboard%20showcase%20%20Overview%20page.jpg)
-
 ## Folder Notes
 - **`Datasets/`**: Contains the raw CSV data files used for analysis.
   - `dim_customers.csv`: Customer demographic data including income, city, and occupation.
